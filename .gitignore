@@ -16,5 +16,8 @@ node_modules
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
 
+# Hardhat-deploy files ?
+deployments
+
 # My personal notes files
 /a
